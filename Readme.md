@@ -18,10 +18,10 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="projeto Nearby" src=".github/preview.png" width="12%">
-  <img alt="projeto Nearby" src=".github/preview2.png" width="12%">
-  <img alt="projeto Nearby" src=".github/preview3.png" width="12%">
-  <img alt="projeto Nearby" src=".github/preview4.png" width="12%">
+  <img alt="projeto Nearby" src=".github/preview.png" width="22%">
+  <img alt="projeto Nearby" src=".github/preview2.png" width="22%">
+  <img alt="projeto Nearby" src=".github/preview3.png" width="22%">
+  <img alt="projeto Nearby" src=".github/preview4.png" width="22%">
 </p>
 
 ## 🚀 Tecnologias
