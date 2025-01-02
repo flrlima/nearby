@@ -18,7 +18,10 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="projeto Nearby" src=".github/preview.png" width="100%">
+  <img alt="projeto Nearby" src=".github/preview.png" width="12%">
+  <img alt="projeto Nearby" src=".github/preview2.png" width="12%">
+  <img alt="projeto Nearby" src=".github/preview3.png" width="12%">
+  <img alt="projeto Nearby" src=".github/preview4.png" width="12%">
 </p>
 
 ## 🚀 Tecnologias
@@ -35,6 +38,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O Nearby é um projeto que linca estabelecimentos cadastrados com descontos à usuários em busca de descontos seja estes em alimentação, vestuário, qualquer loja ou serviço que ofereça o benefício.
+
+Vale lembrar que foi utilizado geolocalização, recursos de camêra para escanear e validar o QR Code
 
 ## 🔖 Layout
 
